@@ -1,5 +1,5 @@
 # dht11_driver
-dht11 driver for esp32
+dht11 driver for esp32.
 
 # Usage
 #### 1.Put `dht11.h` and `dht11.m` files in your `main` folder.
