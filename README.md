@@ -5,7 +5,7 @@ dht11 driver for esp32 all series development boards.
 #### 1.Put `dht11.h` and `dht11.m` files in your `main` folder.
 #### 2.Import `dht11.h` in your `main.c` file, the you can use it.
 Use like this:
-```
+```C
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
